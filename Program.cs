@@ -14,8 +14,12 @@ namespace Calculator
             string secondUserValue=Console.ReadLine();
             decimal firstNumber = Convert.ToDecimal(firstUserValue);
             decimal secondNumber = Convert.ToDecimal(secondUserValue);
-            
-            
+            Console.WriteLine("Here your answers:");
+            Console.WriteLine($"{firstNumber} + {secondNumber} = {firstNumber+secondNumber}");
+            Console.WriteLine($"{firstNumber} - {secondNumber} = {firstNumber-secondNumber}");
+            Console.WriteLine($"{firstNumber} * {secondNumber} = {firstNumber*secondNumber}");
+            Console.WriteLine($"{firstNumber} / {secondNumber} = {firstNumber/secondNumber}");
+            Console.WriteLine($"{firstNumber} % {secondNumber} = {firstNumber%secondNumber}");
 
         }
     }
