@@ -6,10 +6,17 @@ namespace Calculator
     {
         static void Main()
         {
-            Console.WriteLine("Hello world");
-             Console.Write("Hello world!");
-              Console.WriteLine("Hello world");
-              Console.ReadLine();
+           const float pi=3.14f;
+            Console.WriteLine("Enter values:");
+            Console.Write("First number: ");
+            string firstUserValue=Console.ReadLine();
+            Console.Write("Second number: ");
+            string secondUserValue=Console.ReadLine();
+            decimal firstNumber = Convert.ToDecimal(firstUserValue);
+            decimal secondNumber = Convert.ToDecimal(secondUserValue);
+            
+            
+
         }
     }
     

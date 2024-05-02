@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Calculator
-build_property.ProjectDir = D:\.NET Elbek aka darslari\Calculator\
+build_property.ProjectDir = D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

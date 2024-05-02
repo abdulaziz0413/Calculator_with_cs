@@ -12,3 +12,18 @@ D:\.NET Elbek aka darslari\Calculator\obj\Debug\net8.0\refint\Calculator.dll
 D:\.NET Elbek aka darslari\Calculator\obj\Debug\net8.0\Calculator.pdb
 D:\.NET Elbek aka darslari\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
 D:\.NET Elbek aka darslari\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\bin\Debug\net8.0\Calculator.exe
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\bin\Debug\net8.0\Calculator.deps.json
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\bin\Debug\net8.0\Calculator.dll
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\bin\Debug\net8.0\Calculator.pdb
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\obj\Debug\net8.0\Calculator.sourcelink.json
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\obj\Debug\net8.0\Calculator.dll
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\obj\Debug\net8.0\refint\Calculator.dll
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\obj\Debug\net8.0\Calculator.pdb
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\sharp\Lessons_Elbek_aka_youtube\Calculator_with_cs\obj\Debug\net8.0\ref\Calculator.dll
