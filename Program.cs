@@ -20,6 +20,7 @@ namespace Calculator
             Console.WriteLine($"{firstNumber} * {secondNumber} = {firstNumber*secondNumber}");
             Console.WriteLine($"{firstNumber} / {secondNumber} = {firstNumber/secondNumber}");
             Console.WriteLine($"{firstNumber} % {secondNumber} = {firstNumber%secondNumber}");
+            Console.WriteLine($"({firstNumber} + {secondNumber})/2 = {(firstNumber+secondNumber)/2}");
 
         }
     }
